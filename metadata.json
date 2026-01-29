@@ -1,0 +1,5 @@
+{
+  "name": "CV Tailor AI",
+  "description": "An AI-powered application that takes your resume and a job description to generate a perfectly tailored CV and download it as a professional Word document.",
+  "requestFramePermissions": []
+}
